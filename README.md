@@ -28,23 +28,23 @@ During this demonstration "Flutter 3.7.7" and "Python 3.10" are used on "Ubuntu 
 <ul>
     <li>
       <p> <h2>Login</h2> </p>
-      <img src="demo/1.png" width="50%">
+      <img src="demo/1.png" width="80%">
     </li>
     <li>
       <p> <h2>After Successful Connection</h2> </p>
-      <img src="demo/2.png" width="50%">
+      <img src="demo/2.png" width="80%">
     </li>
     <li>
       <p> <h2>Searching for Another User By Name</h2> </p>
-      <img src="demo/3.png" width="50%">
+      <img src="demo/3.png" width="80%">
     </li>
     <li>
       <p> <h2>Sending Message</h2> </p>
-      <img src="demo/4.png" width="50%">
+      <img src="demo/4.png" width="80%">
     </li>
     <li>
       <p> <h2>Messaging From Both Sides</h2> </p>
-      <img src="demo/5.png" width="50%">
+      <img src="demo/5.png" width="80%">
     </li>
 
 
